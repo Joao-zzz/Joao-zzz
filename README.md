@@ -1,20 +1,20 @@
 
 
-### 💻  Desenvolvedor em Formação | Futuro Full Stack Developer
+###  Desenvolvedor em Formação | Futuro Full Stack Developer
 
 
-### 🚀 Sobre mim
-- 💻 Desenvolvimento Web
-- 🎯 Full Stack Development
-- 🤖 Inteligência Artificial
+###  Sobre mim
+-  Desenvolvimento Web
+-  Full Stack Development
+-  Inteligência Artificial
 
-### 🛠️ Tecnologias e habilidades
+###  Tecnologias e habilidades
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,python" />
 </p>
 
-### 📫 Conecte-se comigo
+###  Conecte-se comigo
 
 <a href="https://github.com/Joao-zzz">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-⭐ *Always learning. Always building.*
+ *Always learning. Always building.*
 
 <!--
 **Joao-zzz/Joao-zzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
